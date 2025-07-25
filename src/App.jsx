@@ -1,7 +1,7 @@
 import styled from "styled-components"
 import Albuns from "./components/Albuns"
 import EstilosGlobais from "./components/EstilosGlobais"
-import ModalAvaliacao from "./components/Albuns/ModalAvaliacao"
+import ModalAvaliacao from "./components/ModalAvaliacao"
 import { useState } from "react"
 import albuns from './albuns.json'
 
@@ -30,7 +30,7 @@ function App() {
       <AlbunsContainer>
         <Albuns albumNome={nome => setAlbumNome(nome)} albumSelecionado={faixas => setAlbumSelecionado(faixas)} albuns={albuns} />
       </AlbunsContainer>
-        <ModalAvaliacao nome={albumNome} faixas={albumSelecionado} aoFechar={() => setAlbumSelecionado(null)} />
+      <ModalAvaliacao nome={albumNome} faixas={albumSelecionado} aoFechar={() => setAlbumSelecionado(null)} />
     </>
   )
 }

@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import ModalAvaliacao from '../ModalAvaliacao'
+import ModalAvaliacao from '../../ModalAvaliacao'
 
 const Figure = styled.figure`
     display: flex;
