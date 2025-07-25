@@ -1,0 +1,132 @@
+[
+    {
+        "nome": "Tempo.zip",
+        "id": "1",
+        "autor": "Teto",
+        "capa": "./public/Albuns/tempo.jpg",
+        "faixas": [
+            {"musica": "brinco de diamante", "nota": "6"},
+            {"musica": "eu vou ser rico", "nota": "6"},
+            {"musica": "espelho", "nota": "6"},
+            {"musica": "bolas de haxi", "nota": "6"},
+            {"musica": "doce magico", "nota": "6"},
+            {"musica": "atoa", "nota": "6"},
+            {"musica": "te amo minha mãe", "nota": "6"}
+        ]
+    },
+    {
+        "nome": "Maior que o Tempo",
+        "id": "2",
+        "autor": "Teto",
+        "capa": "./public/Albuns/maiorQueOTempo.jpg"
+    },
+    {
+        "nome": "QMPND",
+        "id": "3",
+        "autor": "LH CHUCRO",
+        "capa": "./public/Albuns/QMPND.jpg"
+    },
+    {
+        "nome": "Vetin",
+        "id": "4",
+        "autor": "Leviano",
+        "capa": "./public/Albuns/vetin.jpg"
+    },
+    {
+        "nome": "Acorde e Fique Rico",
+        "id": "5",
+        "autor": "Leviano",
+        "capa": "./public/Albuns/acordeEFiqueRico.jpg"
+    },
+    {
+        "nome": "Empate Técnico",
+        "id": "6",
+        "autor": "Leviano",
+        "capa": "./public/Albuns/empateTecnico.jpg"
+    },
+    {
+        "nome": "Isso é Trap",
+        "id": "7",
+        "autor": "Brandão85",
+        "capa": "./public/Albuns/issoETrap.jpg"
+        
+    },
+    {
+        "nome": "CEO",
+        "id": "8",
+        "autor": "Brandão85",
+        "capa": "./public/Albuns/CEO.jpg"
+    },
+    {
+        "nome": "Essa é a Vida de um Corredor",
+        "id": "9",
+        "autor": "Ryu, The Runner",
+        "capa": "./public/Albuns/essaEAVidaDeUmCorredor.jpg"
+    },
+    {
+        "nome": "EVDC",
+        "id": "10",
+        "autor": "Ryu, The Runner",
+        "capa": "./public/Albuns/EVDC.jpg"
+    },
+    {
+        "nome": "SEMRÉH",
+        "id": "11",
+        "autor": "Ryu, The Runner",
+        "capa": "./public/Albuns/SEMREH.jpg"
+    },
+    {
+        "nome": "SEMRÉH (Final Sprint)",
+        "id": "12",
+        "autor": "Ryu, The Runner",
+        "capa": "./public/Albuns/SEMREHFinalSprint.jpg"
+    },
+    {
+        "nome": "Aruanda",
+        "id": "13",
+        "autor": "Senndy",
+        "capa": "./public/Albuns/aruanda.jpg"
+    },
+    {
+        "nome": "É Quem?",
+        "id": "14",
+        "autor": "Senndy",
+        "capa": "./public/Albuns/eQuem.jpg"
+    },
+    {
+        "nome": "Dos Prédios",
+        "id": "15",
+        "autor": "Veigh",
+        "capa": "./public/Albuns/dosPredios.jpg"
+    },
+    {
+        "nome": "Dos Prédios Deluxe",
+        "id": "16",
+        "autor": "Veigh",
+        "capa": "./public/Albuns/dosPrediosDeluxe.jpg"
+    },
+    {
+        "nome": "Caos",
+        "id": "17",
+        "autor": "Alee",
+        "capa": "./public/Albuns/caos.jpg"
+    },
+    {
+        "nome": "Dias Antes do Caos",
+        "id": "18",
+        "autor": "Alee",
+        "capa": "./public/Albuns/diasAntesDoCaos.jpg"
+    },
+    {
+        "nome": "Sua Vez de Escutar",
+        "id": "19",
+        "autor": "G.A",
+        "capa": "./public/Albuns/suaVezDeEscutar.jpg"
+    },
+    {
+        "nome": "Unique",
+        "id": "20",
+        "autor": "Emitê Único",
+        "capa": "./public/Albuns/unique.jpg"
+    }
+]
